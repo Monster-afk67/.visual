@@ -1,4 +1,4 @@
-# Visually Script: A Library for the .visual Format
+# Visually the .visual Format
 
 Visually Script is a lightweight, zero-dependency library for creating, reading, and manipulating `.visual` presentation files used by the Visually presentation tool.
 
